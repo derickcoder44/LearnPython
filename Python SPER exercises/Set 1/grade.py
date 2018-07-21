@@ -1,3 +1,5 @@
+
+# Convert percentage to grades
 percentage = int( input("What is the percentage you got") )
 if percentage < 0:
     print("invalid score")
